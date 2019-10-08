@@ -3,7 +3,7 @@
 ## Main Commitment
 ### *I will code for at least an hour every day for the next 100 days.*
 ### *My main goal : To improve in JS and maths for that I can create geometric forms using three.js and WebGL
-### *My second goal : To improve in Golang and Python to realize a videogame
+### *My second goal : To improve in Golang and Python, linked with Blender, to realize a videogame
 
 #### Start Date
 October 9th 2019
