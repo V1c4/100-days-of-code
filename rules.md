@@ -2,9 +2,11 @@
 
 ## Main Commitment
 ### *I will code for at least an hour every day for the next 100 days.*
+### *My main goal : To improve in JS and maths for that I can create geometric forms using three.js and WebGL
+### *My second goal : To improve in Golang and Python to realize a videogame
 
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+October 9th 2019
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
