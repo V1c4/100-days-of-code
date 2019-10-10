@@ -14,7 +14,7 @@
 
 **Today's Progress**: Succeeded to use my Git Bash to upload a file from Github, create my first programm using PHP, did some JS exercises
 
-**Thoughts:** I felt overjoyed to manage to use Git Bash to open a cone file from Github. I spent two hours reading and forking projects in Go for beginners. I also did a great job with two of my pals by making a basic website within one hour using PHP. I also managed to have a long chat with my coworker about my end-of-study project. Great IT day ! 
+**Thoughts:** I felt overjoyed to manage to use Git Bash to open a clone file from Github. I spent two hours reading and forking projects in Go for beginners. I also did a great job with two of my pals by making a basic website within one hour using PHP. I also managed to have a long chat with my coworker about my end-of-study project. Great IT day ! 
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/escaping-literal-quotes-in-strings (it's my last breakpoint on freecodecamp.org)
 
