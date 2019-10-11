@@ -18,3 +18,13 @@
 
 **Link to work:** https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/escaping-literal-quotes-in-strings (it's my last breakpoint on freecodecamp.org)
 
+
+### Day 3: October 11, 2019
+##### Coding review
+
+**Today's Progress**: Watched my first video about WebGL, tried to understand statements and expressions in Go and managed to create a forum and a login space with PHP
+
+**Thoughts:** Today, I was a bit tired due to lack of sleep, I guess. The beginning of the day started with videos from Inanc Gumus about how to build packages in the metro and a video about how to make a triangle on WebGL. Then, in training class, I began with queries from DB on PHP. The logic was not so complicated but I need to exercise more to be more focused on syntax. I often messed up quote with double quotes in concatenations. Anyway, at the end of the day, I was watching Inanc's videos about statements and expressions in Go in metro.
+
+**Link to work:** Nothing to link but pics on my twitter
+
