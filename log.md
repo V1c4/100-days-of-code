@@ -28,3 +28,11 @@
 
 **Link to work:** Nothing to link but pics on my twitter
 
+### Day 4: October 12, 2019
+##### Coding review
+
+**Today's Progress**: Read an article about types of value in Go, started to read a documentation about microservices for beginners and learn how to create a library
+
+**Thoughts:** Today, I spent a lot of time reading stuffs. 
+
+**Link to work:** Nothing to link but pics on my twitter
